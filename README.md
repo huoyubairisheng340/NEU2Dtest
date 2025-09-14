@@ -4,7 +4,7 @@ used for 2D recruitment test
 
 
 
-## 入门
+## 一、入门
 
 - 虚拟机或双系统环境配置
 - 操作系统基础知识学习，Linux命令行和基本操作
@@ -14,7 +14,7 @@ used for 2D recruitment test
 **完成任务一**
 - 详见任务一.md
 
-## 重要
+## 二、重要
 
 - 2D基本环境配置
 
